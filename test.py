@@ -21,7 +21,7 @@ print(len(z))        #Tells the length of java list
 
 print(z[1])          #Gives element at index 1
 
-for i in range(len(z)-1):   #Show all elements of java list
+for i in range(len(z)):   #Show all elements of java list
     print(z[i])
 
 
